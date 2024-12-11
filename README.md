@@ -4,10 +4,10 @@
 </p>
 
 <p align="center">
-<a href="https://octodex.github.com/nuxtocat/"><img src="https://github.com/guanhaijie/guanhaijie/blob/main/picture/NUX_Octodex.gif" height="160px" width="160px"></a>
-<a href="https://octodex.github.com/dinotocat/"><img src="https://github.com/guanhaijie/guanhaijie/blob/main/picture/dinotocat.png" height="160px" width="160px"></a>
-<a href="https://octodex.github.com/droidtocat/"><img src="https://github.com/guanhaijie/guanhaijie/blob/main/picture/droidtocat.png" height="160px" width="160px"></a>
-<a href="https://octodex.github.com/parentocats/"><img src="https://github.com/guanhaijie/guanhaijie/blob/main/picture/parentocats.png" height="160px" width="160px"></a>
+<a href="https://octodex.github.com/nuxtocat/"><img src="https://github.com/guanhaijie/guanhaijie/blob/main/picture/NUX_Octodex.gif" height="200px" width="200px"></a>
+<a href="https://octodex.github.com/dinotocat/"><img src="https://github.com/guanhaijie/guanhaijie/blob/main/picture/dinotocat.png" height="200px" width="200px"></a>
+<a href="https://octodex.github.com/droidtocat/"><img src="https://github.com/guanhaijie/guanhaijie/blob/main/picture/droidtocat.png" height="200px" width="200px"></a>
+<a href="https://octodex.github.com/parentocats/"><img src="https://github.com/guanhaijie/guanhaijie/blob/main/picture/parentocats.png" height="200px" width="200px"></a>
 </p>
 ## Hi there 👋
 
