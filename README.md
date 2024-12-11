@@ -2,10 +2,12 @@
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
 </p>
-<img width="100px" src="https://octodex.github.com/nuxtocat/" align="center" alt="GitHub Readme Stats" />
 
 <p align="center">
-<a href="https://octodex.github.com/umbrellatocat/"><img src="[https://octodex.github.com/nuxtocat/](https://github.com/guanhaijie/guanhaijie/blob/main/picture/NUX_Octodex.gif)" height="160px" width="160px"></a>
+<a href="https://octodex.github.com/nuxtocat/"><img src="https://github.com/guanhaijie/guanhaijie/blob/main/picture/NUX_Octodex.gif" height="160px" width="160px"></a>
+<a href="https://octodex.github.com/dinotocat/"><img src="https://github.com/guanhaijie/guanhaijie/blob/main/picture/dinotocat.png" height="160px" width="160px"></a>
+<a href="https://octodex.github.com/droidtocat/"><img src="https://github.com/guanhaijie/guanhaijie/blob/main/picture/droidtocat.png" height="160px" width="160px"></a>
+<a href="https://octodex.github.com/parentocats/"><img src="https://github.com/guanhaijie/guanhaijie/blob/main/picture/parentocats.png" height="160px" width="160px"></a>
 </p>
 ## Hi there 👋
 
