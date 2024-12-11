@@ -5,7 +5,7 @@
 <img width="100px" src="https://octodex.github.com/nuxtocat/" align="center" alt="GitHub Readme Stats" />
 
 <p align="center">
-<a href="https://octodex.github.com/umbrellatocat/"><img src="https://octodex.github.com/nuxtocat/" height="160px" width="160px"></a>
+<a href="https://octodex.github.com/umbrellatocat/"><img src="[https://octodex.github.com/nuxtocat/](https://github.com/guanhaijie/guanhaijie/blob/main/picture/NUX_Octodex.gif)" height="160px" width="160px"></a>
 </p>
 ## Hi there 👋
 
